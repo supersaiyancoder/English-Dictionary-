@@ -27,7 +27,7 @@ The English Dictionary Web App is a versatile tool designed to help users explor
 
   ## Sceenshot
 
-      ![Screenshot 2024-01-24 182133](https://github.com/supersaiyancoder/English-Dictionary-/assets/83352265/6b29b4b9-f360-4801-a00f-cd0fe6b37310)
+  ![Screenshot 2024-01-24 182133](https://github.com/supersaiyancoder/English-Dictionary-/assets/83352265/e95e48e5-6817-4ca3-89ae-2f4fec0de5a6)
 
 
   ## Video
